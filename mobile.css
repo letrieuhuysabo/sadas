@@ -1,0 +1,9 @@
+body{
+    background-color: green;
+}
+.ads>div{
+    display: none;
+}
+.flex{
+    flex-direction: column;
+}
